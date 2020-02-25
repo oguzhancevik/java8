@@ -1,3 +1,3 @@
-### Java8 Lambda Examples :rocket:
+### Java8 Examples :rocket:
 
-This repo includes Java 8 Lambda examples.
+This repo includes Java 8 examples.

@@ -1,0 +1,1 @@
+package io.github.oguzhancevik.java8.functionalinterface;

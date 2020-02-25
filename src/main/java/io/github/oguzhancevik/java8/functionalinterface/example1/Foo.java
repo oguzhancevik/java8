@@ -1,4 +1,4 @@
-package io.github.oguzhancevik.functionalinterface.example1;
+package io.github.oguzhancevik.java8.functionalinterface.example1;
 
 @FunctionalInterface // optional
 public interface Foo {
